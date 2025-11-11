@@ -1,0 +1,5 @@
+streamlit>=1.31
+openai>=1.40
+ffmpeg-python>=0.2.0
+requests>=2.31
+python-dotenv>=1.0.0
